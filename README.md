@@ -4,6 +4,7 @@ BlogSphere is a simple, full-stack blog platform built using **EJS**, **JavaScri
 
 ![Homepage Screenshot](public/assets/home.png)
 
+
 ## 🌟 Features
 
 - ✍️ Create a new blog post
@@ -20,5 +21,21 @@ BlogSphere is a simple, full-stack blog platform built using **EJS**, **JavaScri
 - **Database**: MongoDB (via Mongoose)
 - **Templating Engine**: EJS
 
-## 📁 Folder Structure
+🖼️ Screenshots
+
+🏠 Homepage
+![Homepage Screenshot](public/assets/home2.png)
+
+📝 Create Blog
+![Create Screenshot](public/assets/create.png)
+
+📖 Read Blog
+![Read Screenshot](public/assets/read.png)
+
+✏️ Edit Blog
+![Edit Screenshot](public/assets/edit.png)
+
+Database
+![Database Screenshot](public/assets/mongodb.png)
+
 
